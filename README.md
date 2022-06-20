@@ -12,15 +12,15 @@
 
 Clone Repository using
 
-`git clone git@github.com:Aduda-Boaz/ruby-enumerables.git`
+`git clone git@github.com:amrendrakind/enumerables.git`
 
 Or using HTTPS
 
-`git clone https://github.com/Aduda-Boaz/ruby-enumerables.git`
+`git clone https://github.com/amrendrakind/enumerables.git`
 
 Move into project directory
 
-`cd decode-morse-code`
+`cd enumerables`
 
 ## Available Scripts
 
